@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap");
 @font-face {
 	font-family: 'DSEG7ClassicMini-Regular';
-	src: url(DSEG7ClassicMini-Regular.ttf);
+	src: url(DSEG7ClassicMini-Regular.woff);
 }
 *{
   margin: 0;
